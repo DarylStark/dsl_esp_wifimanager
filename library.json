@@ -20,8 +20,7 @@
     "license": "MIT",
     "homepage": "https://github.com/DarylStark/dsl_esp_wifimanager_portal/",
     "dependencies": {
-        "dsl": "^0.0.1",
-        "dsl_esp_appbase": "^0.0.1"
+        "dsl": "^0.0.1"
     },
     "frameworks": "*",
     "platforms": "*"
