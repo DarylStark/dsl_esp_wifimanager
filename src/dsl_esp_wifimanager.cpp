@@ -9,6 +9,7 @@ namespace dsl
             WiFiManager::WiFiManager(std::string partition)
                 : __partition(partition), __dirty(true)
             {
+                // TODO: Add autosave
             }
 
             void WiFiManager::set(std::string ssid, std::string password)
